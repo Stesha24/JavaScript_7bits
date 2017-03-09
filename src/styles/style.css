@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lato', serif;
+}
+
+
+.header {
+    height: 60px;
+    text-align: center;
+    background: #ccc;
+    line-height: 60px;
+}
+
+.wrapper {
+    max-width: 952px;
+    margin: 0 auto;
+}
+
+.content__buttons {
+    margin-top: 20px;
+}
+
+.content__button {
+    height: 30px;
+    width: 100px;
+    margin-right: 15px;
+    background: #fe1234;
+    visibility: hidden;
+}
+
+.content__lifes {
+    margin-top: 100px;
+}
+
+.content__start {
+    margin-top: 50px;
+}
+.content__start_button {
+    width: 100px;
+    height: 50px;
+    background: #FFB2B2;
+}
